@@ -12,7 +12,7 @@ Full-Stack Development, Large Language Models (LLMs), Data Pipelines & Engineeri
 
 
 ## Contact
-Email: sparth697@yahoo.com
+Email: sparth697@gmail.com
 
 ---
 
